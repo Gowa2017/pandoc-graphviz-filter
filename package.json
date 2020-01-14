@@ -1,0 +1,10 @@
+{
+  "name": "vizjs.cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pandoc-filter": "^1.0.0",
+    "viz.js": "1.8.2"
+  }
+}
